@@ -20,20 +20,20 @@ https://edge3-moblive.yuppcdn.net/drm/smil:swarnawahinidrm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HiruTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/hiru-tv.png",Hiru TV
 https://edge3-moblive.yuppcdn.net/drm/smil:hirutvdrm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SiyathaTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchnq.png",Siyatha TV
-https://ythls.armelin.one/channel/UCj-bQzHpWB5MtmJoDzizzbw.m3u8
+#EXTINF:-1 tvg-id="Siyatha-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchnq.png",Siyatha TV
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 
-#EXTINF:-1 tvg-id="SirasaTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ucihva.png",Sirasa TV
+#EXTINF:-1 tvg-id="Sirasa-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ucihva.png",Sirasa TV
 https://edge3-moblive.yuppcdn.net/drm/smil:sirasatvdrm.smil/playlist.m3u8
-https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8
+https://moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShakthiTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/dmikwb.png",Shakthi TV
 https://edge3-moblive.yuppcdn.net/drm/smil:shakthitvdrm.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Supreme" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/toilov.png",Supreme
+#EXTINF:-1 tvg-id="Supreme-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/toilov.png",Supreme
 https://edge3-moblive.yuppcdn.net/drm/smil:tnldrm.smil/playlist.m3u8
-https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8
+https://moblive.yuppcdn.net/drm/smil:tnldrm.smil/manifest.m3u8
 
 
 #EXTINF:-1 tvg-id="CHARANATV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/djwqoh.png",CHARANA TV
