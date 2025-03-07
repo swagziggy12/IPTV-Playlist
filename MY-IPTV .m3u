@@ -15,16 +15,16 @@ https://edge3-moblive.yuppcdn.net/drm1/smil:vasanthamtvdrm.smil/index.m3u8
 https://moblive.yuppcdn.net/drm/smil:deranatvdrm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Swarnavahini" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ddcjju.png",Swarnavahini
-https://edge3-moblive.yuppcdn.net/drm/smil:swarnawahinidrm.smil/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDIvMjUvMjAyNSAwNzoyODozNyBBTSZoYXNoX3ZhbHVlPVBieTlYUXIzbzQ4MDlkR2I0YmZMTmc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD15dXBwdHZvdHRfNV8yNjIwMzhfNmVjZWQ4N2ItMTFjOS03NWIyLTY0OTktMzBkMmM2NmZlNmUwX0xLXzE3NS4xNTcuMjQxLjg0X3NsdF8xX2NoYW5uZWxfNl8tMSZzdHJtX2xlbj0yOQ==
+https://edge3-moblive.yuppcdn.net/drm/smil:swarnawahinidrm.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="HiruTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/hiru-tv.png",Hiru TV
 https://moblive.yuppcdn.net/drm/smil:hirutvdrm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Siyatha-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchnq.png",Siyatha TV
-https://edge3-moblive.yuppcdn.net/drm/smil:siyathatvdrm.smil/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDIvMjUvMjAyNSAwNzoyNzozOCBBTSZoYXNoX3ZhbHVlPUVXbWhSWWNQMFhWMDFueFVBTGVOL3c9PSZ2YWxpZG1pbnV0ZXM9NSZpZD15dXBwdHZvdHRfNV8yNjIwMzhfNmVjZWQ4N2ItMTFjOS03NWIyLTY0OTktMzBkMmM2NmZlNmUwX0xLXzE3NS4xNTcuMjQxLjg0X3NsdF8xX2NoYW5uZWxfOF8tMSZzdHJtX2xlbj0yNg==
+https://edge3-moblive.yuppcdn.net/drm/smil:siyathatvdrm.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Sirasa-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ucihva.png",Sirasa TV
-https://edge3-moblive.yuppcdn.net/drm/smil:sirasatvdrm.smil/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDIvMjUvMjAyNSAwNzoyOToxNSBBTSZoYXNoX3ZhbHVlPSsyWnhoZWpjTkQrNmhXTGV3a09VQmc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD15dXBwdHZvdHRfNV8yNjIwMzhfNmVjZWQ4N2ItMTFjOS03NWIyLTY0OTktMzBkMmM2NmZlNmUwX0xLXzE3NS4xNTcuMjQxLjg0X3NsdF8xX2NoYW5uZWxfOV8tMSZzdHJtX2xlbj0yNQ==
+https://edge3-moblive.yuppcdn.net/drm/smil:sirasatvdrm.smil/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ShakthiTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/dmikwb.png",Shakthi TV
@@ -32,7 +32,7 @@ https://edge3-moblive.yuppcdn.net/drm/smil:shakthitvdrm.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Supreme-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/toilov.png",Supreme
-https://edge3-moblive.yuppcdn.net/drm/smil:tnldrm.smil/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDIvMjUvMjAyNSAwNzozMDoxNCBBTSZoYXNoX3ZhbHVlPWcvQ2JwN1RGRW5xbEo4eXp3blBHOHc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD15dXBwdHZvdHRfNV8yNjIwMzhfNmVjZWQ4N2ItMTFjOS03NWIyLTY0OTktMzBkMmM2NmZlNmUwX0xLXzE3NS4xNTcuMjQxLjg0X3NsdF8xX2NoYW5uZWxfMTJfLTEmc3RybV9sZW49MjA=
+https://edge3-moblive.yuppcdn.net/drm/smil:tnldrm.smil/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CHARANATV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/djwqoh.png",CHARANA TV
