@@ -9,7 +9,7 @@ https://moblive.yuppcdn.net/drm1/smil:nethradrm.smil/playlist.m3u8
 https://moblive.yuppcdn.net/drm/smil:itndrm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VasanthamTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ngfsik.png",Vasantham TV
-https://edge3-moblive.yuppcdn.net/drm1/smil:vasanthamtvdrm.smil/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDIvMjUvMjAyNSAwNzoyMTowNyBBTSZoYXNoX3ZhbHVlPXBQcnBPWmJOckE2Q3hsckJYdjdoZmc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD15dXBwdHZvdHRfNV8yNjIwMzhfNmVjZWQ4N2ItMTFjOS03NWIyLTY0OTktMzBkMmM2NmZlNmUwX0xLXzE3NS4xNTcuMjQxLjg0X3NsdF8xX2NoYW5uZWxfN18tMSZzdHJtX2xlbj0yOQ==
+https://edge3-moblive.yuppcdn.net/drm1/smil:vasanthamtvdrm.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="TVDerana" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/derana.png",TV Derana
 https://moblive.yuppcdn.net/drm/smil:deranatvdrm.smil/playlist.m3u8
