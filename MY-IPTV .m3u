@@ -18,7 +18,7 @@ https://moblive.yuppcdn.net/drm/smil:deranatvdrm.smil/playlist.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:swarnawahinidrm.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="HiruTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/hiru-tv.png",Hiru TV
-https://moblive.yuppcdn.net/drm/smil:hirutvdrm.smil/playlist.m3u8
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Siyatha-TV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchnq.png",Siyatha TV
 https://edge3-moblive.yuppcdn.net/drm/smil:siyathatvdrm.smil/index.m3u8
