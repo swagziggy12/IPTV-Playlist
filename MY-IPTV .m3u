@@ -80,6 +80,41 @@ https://edge3-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV  " tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/sirippoli-tv.png",Sirippoli TV
 https://edge3-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/playlist.m3u8
 
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickHDPlus.in",Nick HD+
+http://103.68.28.58:5001/live/1226.m3u8
+
+#EXTINF:-1 tvg-id="NickHDPlus.in",Nick HD+ (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in",Nick Jr India (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonSonic.in",Nickelodeon Sonic Hindi (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="",Star Family (576p) [Not 24/7]
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
+
+#EXTINF:-1 tvg-id="StarGold.in" http-user-agent="stream",Star Gold HD (1080p)
+#EXTVLCOPT:http-user-agent=stream
+http://103.81.104.118/hls/stream19.m3u8
+
+#EXTINF:-1 tvg-id="Starnet.in",Starnet (480p)
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UMoviesIndia.in",B4U Movies India (576p)
+http://183.89.246.119:8881/play/a08n/index.m3u8
+
+#EXTINF:-1 tvg-id="Filmeraa.in",Filmeraa (720p)
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.in",Disney Junior India (576p)
+http://103.124.251.164:28015/play/a02m/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO2East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png",HBO 2 East
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
@@ -106,126 +141,3 @@ https://edge3-moblive.yuppcdn.net/drm/smil:peosportsdrm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NikkyTV" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rrrplb.png",Nikky TV
 https://edge3-moblive.yuppcdn.net/drm/smil:planetfundrm.smil/playlist.m3u8
-
-#EXTINF:-1,HBO PREMIUM
-https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8
-
-#EXTINF:-1,HBO 2 East (720p)
-https://list.iptvcat.com/my_list/s/afcd53548781ebf98170775f51344277.m3u8
-
-#EXTINF:-1,HBO (Asia)
-https://list.iptvcat.com/my_list/s/3fd4748f09f4541a86cdae7bc70d3d16.m3u8
-
-#EXTINF:-1,HOT HBO HD (???????)
-https://list.iptvcat.com/my_list/s/106f20c89e2d718838919eec1f9eb544.m3u8
-
-#EXTINF:-1,HBO Asia HD
-https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-
-#EXTINF:-1,Cine Sony (720p)
-https://list.iptvcat.com/my_list/s/dcd39dbdfb85d60ec7da7570d9646db9.m3u8
-
-#EXTINF:-1,Sony Movie Channel (720p)
-https://list.iptvcat.com/my_list/s/a6333670027561ffe1ffc69f3d284394.m3u8
-
-#EXTINF:-1,Movie Plus (544p)
-https://list.iptvcat.com/my_list/s/c3d41bd9e2b0301a06f7083ba12f0f5c.m3u8
-
-#EXTINF:-1,AMC (1080p)
-https://list.iptvcat.com/my_list/s/8035a407a3a0879cf1ccdbe883e426e8.m3u8
-
-#EXTINF:-1,Action Hollywood Movies
-https://list.iptvcat.com/my_list/s/7156edbc9eb72a3ce47719213df1cf3d.m3u8
-
-#EXTINF:-1,Young Hollywood
-https://list.iptvcat.com/my_list/s/e57aae981e5b515b07ce533e5e031c19.m3u8
-
-#EXTINF:-1,TV1000 Action HD
-https://list.iptvcat.com/my_list/s/63cc9553e1b1d85b0a895ca035ec6ced.m3u8
-
-#EXTINF:-1,Sony Movie Channel (720p)
-https://list.iptvcat.com/my_list/s/a6333670027561ffe1ffc69f3d284394.m3u8
-
-#EXTINF:-1,Movie Plus (544p)
-https://list.iptvcat.com/my_list/s/c3d41bd9e2b0301a06f7083ba12f0f5c.m3u8
-
-#EXTINF:-1,Freedom Movie Sphere (720p)
-https://list.iptvcat.com/my_list/s/5524b58d0f347d4cc05f9728b3b5488d.m3u8
-
-#EXTINF:-1,My time Movies Network
-https://list.iptvcat.com/my_list/s/b6d65d50f2bf0d563a6508169cc47294.m3u8
-
-#EXTINF:-1,30A TV Classic Movies
-https://list.iptvcat.com/my_list/s/389faf64e9fa495917411df6f02315d7.m3u8
-
-#EXTINF:-1,Sky-MoviesComedy
-https://list.iptvcat.com/my_list/s/531560f95e91cc47faee9d6fe4e8bb6c.m3u8
-
-#EXTINF:-1,Cartoon Network Southeast Asia (1080p)
-https://list.iptvcat.com/my_list/s/300ca37df9856b8951b4f91c7f2f501a.m3u8
-
-#EXTINF:-1,Cartoon Network East (1080p)
-https://list.iptvcat.com/my_list/s/bd7d295cbc106d36491e59f262f3efb5.m3u8
-
-#EXTINF:-1,RetrÙ Cartoon (480p)
-https://list.iptvcat.com/my_list/s/1080a06d464740e1c9bccdf573f234a1.m3u8
-
-#EXTINF:-1,Bollywood Classic
-https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
-
-#EXTINF:-1,Cinema Hausa
-https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
-
-#EXTINF:-1,Discover Film
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,Black Cinema
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9&serverSideAds=false
-
-#EXTINF:-1,Charge!
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
-#EXTINF:-1,Film Hub
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-
-#EXTINF:-1,FilmRise Forensic Files
-https://lnc-forensic-files.tubi.video/index.m3u8
-
-#EXTINF:-1,Flicks of Fury
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07&serverSideAds=false
-
-#EXTINF:-1,Horrify
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-
-#EXTINF:-1,Maverick Black Cinema
-https://lnc-maverick-black-cinema.tubi.video/playlist.m3u8
-
-#EXTINF:-1,Paramount Network East
-http://170.254.18.106/PARAMOUNT/index.m3u8
-
-#EXTINF:-1,Made In Hollywood
-https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,Movies for Gamers
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0&serverSideAds=false
-
-#EXTINF:-1,MyTime Movie Network East
-https://mytime-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Paramount Movie Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74&serverSideAds=false
-
-#EXTINF:-1,Pluto TV Crime Movies
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b&serverSideAds=false
-
-#EXTINF:-1,Pluto TV Horror (United States)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1450-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3f8b9bca-2807-48aa-a7cc-8513d68f8d92&serverSideAds=false
-
-#EXTINF:-1,Pluto TV Terror
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29&serverSideAds=false
-
-#EXTINF:-1,Sony Movies
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-
-#EXTINF:-1,The Film Detective
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
